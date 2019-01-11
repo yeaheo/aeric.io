@@ -29,9 +29,9 @@ home = ["HTML", "RSS", "Algolia"]
 
   # algolia site search
   algolia_search = true
-  algolia_appId = ""
-  algolia_indexName = ""
-  algolia_apiKey = ""
+  algolia_appId = "6P23VKHDDR"
+  algolia_indexName = "aeric.io"
+  algolia_apiKey = "8d93bc4ec2373c5614fbdfc8634bcb39"
 
   # Sidebar settings
   sidebar_about_description = "Software Developer, Open Source Enthusiast"
