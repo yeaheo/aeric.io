@@ -18,11 +18,11 @@ git commit -m "$msg"
 git push origin master
 
 # Push Hugo Themes
-cd themes
+cd themes/hugo-theme-cleanwhite/
 git add -A
 git commit -m "$msg"
 git push origin master
-cd ..
+cd ../..
 
 # Build the project. 
 hugo
