@@ -1,25 +1,7 @@
-![](/img/zhaohuabing.png)  **_Huabing Zhao_** is an ICT veteran with a passion for open source. He has a solid experience in the telecommunication and information technology industry for more than 17 years.
+我，一个北漂青年，一直带着 “越努力，越幸运” 的信仰在这个充满机会和挑战的城市奋斗着。为了更好的未来一直在不断努力学习来丰富自己的人生阅历和专业技能。
 
-Throughout his career, he has built a number of large-scale, cross-country OSS/BSS platforms/systems and operation tools, most of them are still running in productions.
+作为一名运维工程师，自从 2016 年大学毕业后，到现在已经工作近两年了，在这两年的时间里，从一个刚走出大学校门步入社会的小白成长为一名具有专业技能的社会青年。当然，现在的自己还没有达到自己的目标，也不是什么行业大佬，还在不断的学习中。
 
-He loves open source and has been contributing to a variety of open source projects, including Istio(Service Mesh https://istio.io), ONAP(Open Network Automation Platform https://wiki.onap.org), Hugo(static site generators https://themes.gohugo.io/hugo-theme-cleanwhite/), etc.
+乐于分享，长期活跃在 GitHub 上，还通过 GitHub Pages 建立了自己的个人博客网站用于记录一些在工作和生活中遇到的各种问题，同时也可以分享给其他人，也算是和其他人分享自己的心得体会吧，在这个过程中可以学到很多，也在不断地充实着自己。
 
-He also has strong interests in various tech stuff such as Artificial Intelligence, Cryptocurrencies, Smart Home.
-
-Huabing holds a BS in Computer Science and Technology from Chongqing University in China.
-
-Currently, Huabing is working on a 5G NFV&SDN orchestration and management platform, at the same time, he also wears the hat of PTL in ONAP(http://www.onap.org) open source project.
-
-He is happy with his current job, but also willing to take new challenges if the opportunity matches his career path.
-
-While he is not working, he enjoys watching movies, swimming, hiking, travelling, writing blogs and learning languages.
-
-Feel free to connect Huabing via Github (https://github.com/zhaohuabing) or drop him an email (zhaohuabing@gmail.com).
-
-## Talks
-
-* [Service Mesh in Action with ONAP] (https://www.slideshare.net/HuabingZhao/service-mesh-in-action-with-onap) GNTC, 南京, 2018
-* [MSB to Support Carrier Grade ONAP Microservice Architecture with Service Mesh] (https://www.slideshare.net/HuabingZhao/msb-to-support-carrier-grade-onap-microservice-architecture-with-service-mesh) ONS, Los Angeles, 2018
-* [Microservice Powered Orchestration](https://www.slideshare.net/HuabingZhao/microservice-powered-orchestration-126100339) ONS, Santa Clara, 2017
-* [MSB Technical Deep Dive and ONAP Use Cases] (https://www.slideshare.net/HuabingZhao/msb-depp-dive/) ONAP Developer Event, New Jersey, 2017
-* [Microservice Bus Tutorial] (https://www.slideshare.net/HuabingZhao/microservice-bus-tutorial) ONAP Developer Event, Paris, 2017
+个人喜欢书法，爱听歌，爱打球，爱跑步，爱爬山。工作并不是生活的全部，我们也要学会享受生活。
