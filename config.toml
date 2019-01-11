@@ -1,0 +1,106 @@
+baseurl = "https://aeric.io"
+title = "Aeric Blog"
+theme = "hugo-theme-cleanwhite"
+languageCode = "en-us"
+# Enable comments by entering your Disqus shortname
+disqusShortname = "yeaheo"
+googleAnalytics = ""
+preserveTaxonomyNames = true
+paginate = 5 #frontpage pagination
+hasCJKLanguage = true
+
+[outputs]
+home = ["HTML", "RSS", "Algolia"]
+
+[params]
+  header_image = "https://wx3.sinaimg.cn/large/b258d7f7ly1fxx45xa3xzj21ja0loajs.jpg"
+  SEOTitle = "吕啸腾的博客 | Aeric Blog"
+  description = "吕啸腾，运维开发, 开源爱好者，Geeker | 这里是 吕啸腾 的博客，与你一起发现更大的世界。"
+  keyword = "吕啸腾, lvxiaoteng, Lvxiaoteng, 吕啸腾的网络日志, 吕啸腾的博客, Aeric Blog, 博客, 个人网站, 互联网, Web, 云原生, PaaS, Istio, Kubernetes, 微服务, Microservice"
+  slogan = "越努力，越幸运"
+
+  image_404 = "img/404-bg.jpg"
+  title_404 = "你来到了没有知识的荒原 :("
+
+  # leancloud storage for page view counter
+  page_view_conter = false 
+  leancloud_app_id = ""
+  leancloud_app_key = ""
+
+  # algolia site search
+  algolia_search = true
+  algolia_appId = ""
+  algolia_indexName = ""
+  algolia_apiKey = ""
+
+  # Sidebar settings
+  sidebar_about_description = "Software Developer, Open Source Enthusiast"
+  sidebar_avatar = "img/avatar-lvxiaoteng.jpg"      # use absolute URL, seeing it's used in both `/` and `/about/`
+
+  featured_tags = true 
+  featured_condition_size = 1 
+
+  # Baidu Analytics
+  ba_track_id = ""
+  
+  # We need a proxy to access Disqus api in China
+  # Follow https://github.com/zhaohuabing/disqus-php-api to set up your own disqus proxy
+  disqus_proxy = ""
+  disqus_site = ""
+
+  #Enable wechat pay & alipay to allow readers send reward money if they like the articles 
+  reward = true 
+  # reward_guide = "如果这篇文章对你有用,请随意打赏" 
+
+  friends = true
+  bookmarks = true
+  about_me = true
+
+  [params.social]
+  rss            = true 
+  email          = "eric.lv@aeric.io"
+  #facebook      = "full profile url in facebook"
+  #googleplus    = "full profile url in googleplus"
+  twitter        = "https://twitter.com/EricLve"
+  linkedin       = "https://www.linkedin.com/in/%E5%95%B8%E8%85%BE-%E5%90%95-371521176/"
+  #stackoverflow  = "https://stackoverflow.com/users/yourstackoverflowid"
+  #instagram     = "full profile url in instagram"
+  github         = "https://github.com/yeaheo"
+  wechat         = "img/wechat/wechat.jpeg"
+  weibo          = "https://weibo.cn/yeaheo"
+  #medium         = "full profile url in medium"
+  #pinterest     = "full profile url in pinterest"
+  
+  [[params.friend_link]]
+  title = "Yeaheo的博客"
+  href =  "https://yeaheo.com"
+
+  [[params.bookmark_link]]
+  title =  "OPSX镜像源"
+  href =  "https://opsx.alibaba.com/mirror"
+  [[params.bookmark_link]]
+  title = "ServiceMesher 社区"
+  href =  "http://www.servicemesher.com"
+  [[params.bookmark_link]]
+  title =  "Kubernetes 官方站点"
+  href = "https://kubernetes.io"
+  [[params.bookmark_link]]
+  title = "Istio 官方站点"
+  href = "https://istio.io"
+  
+  [[params.addtional_menus]]
+  title =  "BOOKS"
+  href =  "/top/books/"
+  [[params.addtional_menus]]
+  title =  "ABOUT"
+  href =  "/top/about/"
+
+[outputFormats.Algolia]
+baseName = "algolia"
+isPlainText = true
+mediaType = "application/json"
+notAlternative = true
+
+[params.algolia]
+vars = ["title", "summary", "date", "publishdate", "expirydate", "permalink"]
+params = ["categories", "tags"] 
