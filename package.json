@@ -1,0 +1,23 @@
+{
+  "name": "aeric.io",
+  "version": "1.0.0",
+  "description": "Aeric Blog",
+  "main": "index.js",
+  "dependencies": {
+    "atomic-algolia": "^0.3.17"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "algolia": "atomic-algolia"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/yeaheo/aeric.io.git"
+  },
+  "author": "yeaheo",
+  "license": "Apache-2.0",
+  "bugs": {
+    "url": "https://github.com/yeaheo/aeric.io/issues"
+  },
+  "homepage": "https://github.com/yeaheo/aeric.io#readme"
+}
