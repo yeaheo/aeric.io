@@ -1,9 +1,4 @@
 #!/bin/bash
-# Description: update my blog
-# Author: Aeric Lve
-# Date: 2019-01-11
-# Email: <eric.lv@aeric.io>
-# WebSite: https://aeric.io
 
 echo -e "\033[0;32mDeploying updates to GitHub...\033[0m"
 msg="rebuilding site `date`"
@@ -41,6 +36,3 @@ git push origin master
 
 # Come Back
 cd ..
-
-# 开启评论功能
-#sed -i '7s/true/false/g' ./*
