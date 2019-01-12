@@ -14,7 +14,7 @@ home = ["HTML", "RSS", "Algolia"]
 
 [params]
   header_image = "https://wx3.sinaimg.cn/large/b258d7f7ly1fxx45xa3xzj21ja0loajs.jpg"
-  SEOTitle = "吕啸腾的博客 | Aeric Blog"
+  SEOTitle = "吕啸腾的博客"
   description = "吕啸腾，运维开发, 开源爱好者，Geeker | 这里是 吕啸腾 的博客，与你一起发现更大的世界。"
   keyword = "吕啸腾, lvxiaoteng, Lvxiaoteng, 吕啸腾的网络日志, 吕啸腾的博客, Aeric Blog, 博客, 个人网站, 互联网, Web, 云原生, PaaS, Istio, Kubernetes, 微服务, Microservice"
   slogan = "越努力，越幸运"
