@@ -2,3 +2,4 @@ themes
 public
 node_modules
 .env
+config.toml
