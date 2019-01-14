@@ -14,6 +14,8 @@ categories:  [ "TOOLS" ]
 
 随着 HTTPS 的越来越普及，现在绝大数的 WEB 网站已经支持了全站 HTTPS，来防止网络攻击者观察或注入页面内容等，这里介绍一种在本地生成 TLS 证书的工具: **mkcert**
 
+![mkcert](https://ws3.sinaimg.cn/large/006tNc79ly1fz6gdttj2ij30nx07iq35.jpg)
+
 现在开发者只用 HTTP 协议进行相关开发工作就会暴露一个问题：***more and more browser features are being made available only to secure origins, and testing with HTTP hides any mixed content issues that can break a production HTTPS website***
 
 而 mkcert 就是这样一种工具，它可以在本地生成浏览器信任的本地 https 证书，这样开发人员完全可以按照 https 的方式进行相关开发工作，而且它不需要单独配置，只需几个命令就可以搞定本地 https。
@@ -21,6 +23,8 @@ categories:  [ "TOOLS" ]
 需要说明的是：
 
 > Mkcert 不会生成自签名证书，而是由我们自己机器上在运行 `mkcert -install`时自动配置为信任的证书签署的，因此，当浏览器加载由 mkcert 实例生成的证书时，它将显示为安全受信的。
+
+
 
 ## 安装 mkcert 工具
 
