@@ -81,7 +81,7 @@ version: 0.1.0
 
 官方还有比较完整的文件示例：
 
-```yaml
+```
 apiVersion: The chart API version, always "v1" (required)
 name: The name of the chart (required)
 version: A SemVer 2 version (required)
@@ -109,7 +109,7 @@ tillerVersion: The version of Tiller that this chart requires. This should be ex
 
 编辑 `values.yaml`，当 Chart 创建后默认会在 Kubernetes 部署一个 Nginx。 mychart 应用的 `values.yaml` 文件的具体内容如下：
 
-```bash
+```
 $ cat values.yaml 
 # Default values for mychart.
 # This is a YAML-formatted file.
