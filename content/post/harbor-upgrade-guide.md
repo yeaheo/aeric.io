@@ -129,14 +129,19 @@ $ tar xf /opt/soft/harbor-offline-installer-v1.7.1.tgz -C /srv/
 $ cp -f /srv/harbor_older/harbor.cfg /srv/harbor/
 ```
 
-执行升级过程：
+配置文件更新完成后，就可以升级了，需要注意的是默认新版 harbor 不会启用 `chart repository service`，如果需要管理 `helm`，我们需要在安装时添加额外的参数，例如：
 
 ```bash
+## 默认安装
 $ cd /srv/harbor
 $ ./install.sh
+
+## 启动 chart repository service 服务
+$ cd /srv/harbor
+$ ./install.sh --with-chartmuseum
 ```
 
-等待安装完成即可，安装完成后会有如下提示：
+等待安装完成即可，安装完成后会有如下类似提示：
 
 ```bash
 ...
