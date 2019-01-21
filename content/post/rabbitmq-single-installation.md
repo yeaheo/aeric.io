@@ -5,7 +5,7 @@ subtitle:    ""
 description: "RabbitMQ 是由 LShift 提供的一个 Advanced Message Queuing Protocol (AMQP) 的开源实现，由以高性能、健壮以及可>伸缩性出名的 Erlang 开发设计，因此也是继承了这些优点。"
 excerpt:     ""
 date:        2018-12-02T16:47:46+08:00
-author:      Eric
+author:      Aeric
 image:       "https://wx2.sinaimg.cn/large/b258d7f7ly1fxtcf7nwxaj21ja0lotjm.jpg"
 published:   true
 tags:        ['RabbitMQ','Erlang']

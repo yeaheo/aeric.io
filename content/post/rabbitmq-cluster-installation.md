@@ -5,7 +5,7 @@ subtitle:    ""
 description: "一般情况下，如果只是为了探究 RabbitMQ 可以安装单机版的服务，但是出于 MQ 中间件本身的可靠性、并发性、吞吐量和消息堆积能力等问题的考虑，在生产环境上一般都会考虑使用 RabbitMQ 的集群方案。"
 excerpt:     ""
 date:        2018-12-02T16:48:15+08:00
-author:      Eric
+author:      Aeric
 image:       "https://wx1.sinaimg.cn/large/b258d7f7ly1fxtcy65bcpj21ja0lojxu.jpg"
 published:   true
 tags:        ['RabbitMQ','Erlang']

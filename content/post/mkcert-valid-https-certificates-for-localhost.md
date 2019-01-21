@@ -5,7 +5,7 @@ subtitle:    ""
 description: "随着HTTPS的越来越普及，现在绝大数的WEB网站已经支持了全站HTTPS，来防止网络攻击者观察或注入页面内容等，这里介绍一种在本地生成TLS证书的工具:mkcert"
 excerpt:     ""
 date:        2019-01-14T20:30:33+08:00
-author:      Eric
+author:      Aeric
 image:       "https://wx4.sinaimg.cn/large/b258d7f7ly1fyaxayfrffj21ja0lo13k.jpg"
 published:   true
 tags:        ["mkcert","https"]
@@ -88,7 +88,7 @@ localhost+1-key.pem localhost+1.pem
 
 首先，需要准备一个 nginx 开启 https 的配置文件 `default.conf`:
 
-```conf
+```bash
 server {
     listen       80;
     listen       443 ssl;

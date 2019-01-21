@@ -5,7 +5,7 @@ subtitle:    ""
 description: "Kubernetes 系统的各组件需要使用 TLS 证书对通信进行加密，本文档使用 CloudFlare 的 PKI 工具集 cfssl 来生成 Certificate Authority (CA) 和其它证书"
 excerpt:     ""
 date:        2018-11-30T14:05:14+08:00
-author:      Eric
+author:      Aeric
 image:       "https://wx2.sinaimg.cn/large/b258d7f7ly1fxtcy6jsv1j21ja0lo4f0.jpg"
 published:   true
 tags:        ["Kubernetes","Docker"]

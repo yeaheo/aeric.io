@@ -5,7 +5,7 @@ subtitle:    ""
 description: "本文档旨在在 CentOS 7 系统上安装配置 Erlang 环境，因为 RabbitMQ 是基于 Erlang 开发设计的，所以本文档主要服务于后续 RabbitMQ 的安装和配置。"
 excerpt:     ""
 date:        2018-12-02T16:46:51+08:00
-author:      Eric
+author:      Aeric
 image:       "https://wx2.sinaimg.cn/large/b258d7f7ly1fxtcf65mzfj21ja0o67ev.jpg"
 published:   true
 tags:        ['RabbitMQ','Erlang']

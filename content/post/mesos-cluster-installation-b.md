@@ -5,7 +5,7 @@ subtitle:    ""
 description: "本次 Mesos 集群部署主要基于Zookeeper+Mesos+Marathon+Docker，各个组件均需单独部署并配置，具体安装配置过程可以参考如下过程，"
 excerpt:     ""
 date:        2019-01-12T20:44:13+08:00
-author:      Eric
+author:      Aeric
 image:       "https://wx1.sinaimg.cn/large/b258d7f7ly1fynwhg6digj21ja0logrm.jpg"
 published:   true
 tags:        ["Docker","Mesos","Marathon"]

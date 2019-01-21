@@ -5,7 +5,7 @@ subtitle:    ""
 description: "现有公司一套基础架构主要由 Mesos 集群组成，配合 Marathon 实现容器编排，并利用 Zookeeper 实现 Mesos 和 Marathon 集群的高可用，本文档主要介绍集群中各组件功能"
 excerpt:     ""
 date:        2019-01-12T20:43:44+08:00
-author:      Eric
+author:      Aeric
 image:       "https://wx2.sinaimg.cn/large/b258d7f7ly1fz2tcw2doyj21ja0lowqa.jpg"
 published:   true
 tags:        ["Docker","Mesos","Marathon"]

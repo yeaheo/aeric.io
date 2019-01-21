@@ -5,7 +5,7 @@ subtitle:    ""
 description: "Kubernetes 1.8关于资源使用情况的 metrics，可以通过 Metrics API 获取到 Kubernetes 1.11 已经废弃 heapster。这里我们基于 Kubernetes 1.12 版本安装 Metrics Server"
 excerpt:     ""
 date:        2019-01-04T12:23:36+08:00
-author:      Eric
+author:      Aeric
 image:       "https://wx3.sinaimg.cn/large/b258d7f7ly1fynwhhmlolj21ja0lo7aj.jpg"
 published:   true
 tags:        ["Kubernetes","Metrics","Docker"]

@@ -5,10 +5,10 @@ subtitle:    ""
 description: "整个 mesos 集群主要由 Zookeeper、Mesos、Marathon 和 Docker 几个组件构成,本次部署的是基于三个 master 和一个 salve 的 mesos 集群，实现高可用，高扩展性"
 excerpt:     ""
 date:        2018-12-06T16:34:08+08:00
-author:      Eric
+author:      Aeric
 image:       "https://wx4.sinaimg.cn/large/b258d7f7ly1fxx45wx20rj21ja0loh0x.jpg"
 published:   true
-tags:        ["Docker","Mesos","Zookeeper"]
+tags:        ["Docker","Mesos","Zookeeper","Marathon"]
 categories:  [ TECH ]
 ---
 
