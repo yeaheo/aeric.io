@@ -8,7 +8,7 @@ date:        2018-07-29T14:59:56+08:00
 author:      Aeric
 image:       "https://wx1.sinaimg.cn/large/b258d7f7ly1fz7287krjcj21ja0loqbb.jpg"
 published:   true
-tags:        ["pass"]
+tags:        ["Pass"]
 categories:  [ "TOOLS" ]
 ---
 
@@ -201,6 +201,7 @@ Copied abc to clipboard. Will clear in 45 seconds.
 ## 密码相关操作
 
 **创建新密码**
+
 如果你想生成一些比较难以猜测的密码用于代替原有的奇怪密码，可以通过其内部的 pwgen功能来实现。
 
 ```bash
