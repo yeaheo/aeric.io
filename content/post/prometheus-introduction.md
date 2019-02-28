@@ -1,6 +1,6 @@
 ---
 layout:      post
-title:       "Prometheus 入门介绍"
+title:       "Prometheus 监控入门介绍"
 subtitle:    ""
 description: "Prometheus 是一个开放性的监控解决方案，用户可以非常方便的安装和使用 Prometheus 并且能够非常方便的对其进行扩展，本文档先简单介绍一下 Prometheus"
 excerpt:     ""
