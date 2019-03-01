@@ -231,7 +231,7 @@ $ service grafana-server start
 
 "Configration"---"Data Sources" 然后可以按照下图所示进行配置，需要注意的是 prometheus 的地址需要根据实际情况做修改。
 
-![grafana 设置数据源](https://wx4.sinaimg.cn/large/b258d7f7ly1g0nc7qknkvj20i90nrdj6.jpg)
+![grafana 设置数据源](https://wx3.sinaimg.cn/large/b258d7f7ly1g0ncsgb0r7j20d00gxjud.jpg)
 
 grafana 的数据源配置完成后，可以导入一个 dashboard 模板文件，建议节点模板使用 [node_exporter 展示面板模板](https://grafana.com/dashboards/8919)
 
