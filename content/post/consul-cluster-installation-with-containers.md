@@ -34,7 +34,7 @@ Consul 官方镜像 Dockerfile 文件可以参考：[consul dockerfile](https://
 
 本文档主要部署基于三个 server 和 一个 node 的 consul 集群，集群机器环境如下：
 
-```bash
+```
 consul-server1  172.16.8.120
 consul-server2  172.16.8.121
 consul-server3  172.16.8.122
