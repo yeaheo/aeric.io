@@ -6,7 +6,7 @@ description: "Alertmanager 作为一个独立的组件，负责接收并处理�
 excerpt:     ""
 date:        2019-03-01T18:06:59+08:00
 author:      Aeric
-image:       "https://wx1.sinaimg.cn/large/b258d7f7ly1g0ngh3n88tj21ja0lo7dk.jpg"
+image:       "https://wx1.sinaimg.cn/large/b258d7f7ly1g1okw30i51j21ja0lodvr.jpg"
 published:   true
 tags:        ["Prometheus"]
 categories:  [ "TECH" ]
