@@ -6,7 +6,7 @@ description: "Kubernetes集群的安装方式有很多种，这里我们为了�
 excerpt:     ""
 date:        2018-12-01T15:35:14+08:00
 author:      Aeric
-image:       "https://wx3.sinaimg.cn/large/b258d7f7ly1fxx45xa3xzj21ja0loajs.jpg"
+image:       "https://aericio.oss-cn-beijing.aliyuncs.com/images/bg/1VZ6gQ.jpg"
 published:   true
 tags:        ["Kubernetes"]
 categories:  [ "TECH" ]

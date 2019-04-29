@@ -6,7 +6,7 @@ description: ""
 excerpt:     ""
 date:        2018-12-01T14:35:14+08:00
 author:      Aeric
-image:       "https://wx3.sinaimg.cn/large/b258d7f7ly1fxthv1xr1vj21ja0lo12j.jpg"
+image:       "https://aericio.oss-cn-beijing.aliyuncs.com/images/bg/Y35FXX.jpg"
 published:   true
 tags:        ["Kubernetes","Docker"]
 categories:  [ "TECH" ]

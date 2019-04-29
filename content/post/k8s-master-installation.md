@@ -6,7 +6,7 @@ description: "在Kubernetes集群中，Master节点上主要由kube-apiserver、
 excerpt:     ""
 date:        2018-11-30T15:35:14+08:00
 author:      Aeric
-image:       "https://wx2.sinaimg.cn/large/b258d7f7ly1fy64d7k80vj21ja0lodjp.jpg"
+image:       "https://aericio.oss-cn-beijing.aliyuncs.com/images/bg/6gIcvo.jpg"
 published:   true
 tags:        ["Kubernetes","Docker"]
 categories:  [ "TECH" ]

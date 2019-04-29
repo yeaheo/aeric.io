@@ -6,7 +6,7 @@ description: "之前已经在 kubernetes 集群中安装了 Helm 和 Tiller，�
 excerpt:     ""
 date:        2019-01-15T17:43:22+08:00
 author:      Aeric
-image:       "https://wx3.sinaimg.cn/large/b258d7f7ly1fz72891rp0j21ja0loncv.jpg"
+image:       "https://aericio.oss-cn-beijing.aliyuncs.com/images/bg/DoMTwF.jpg"
 published:   true
 tags:        ["Helm","Kubernetes"]
 categories:  [ "TECH" ]

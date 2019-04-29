@@ -6,7 +6,7 @@ description: "Kubernetes 系统的各组件需要使用 TLS 证书对通信进�
 excerpt:     ""
 date:        2018-11-30T14:05:14+08:00
 author:      Aeric
-image:       "https://wx2.sinaimg.cn/large/b258d7f7ly1fxtcy6jsv1j21ja0lo4f0.jpg"
+image:       "https://aericio.oss-cn-beijing.aliyuncs.com/images/bg/vEJICb.jpg"
 published:   true
 tags:        ["Kubernetes","Docker"]
 categories:  [ TECH ]

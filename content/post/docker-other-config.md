@@ -6,7 +6,7 @@ description: "在日常使用 docker 的过程中，一般 docker 默认的配�
 excerpt:     ""
 date:        2018-07-29T21:36:09+08:00
 author:      Aeric
-image:       "https://wx1.sinaimg.cn/large/b258d7f7ly1fy64d8h12nj21ja0lodoc.jpg"
+image:       "https://aericio.oss-cn-beijing.aliyuncs.com/images/bg/PdvPEu.jpg"
 published:   true
 tags:        ["Docker"]
 categories:  [ "TECH" ]

@@ -6,7 +6,7 @@ description: "PASS 是 Linux 上的一个简单的命令行密码管理器，它
 excerpt:     ""
 date:        2018-07-29T14:59:56+08:00
 author:      Aeric
-image:       "https://wx1.sinaimg.cn/large/b258d7f7ly1fz7287krjcj21ja0loqbb.jpg"
+image:       "https://aericio.oss-cn-beijing.aliyuncs.com/images/bg/BXx45i.jpg"
 published:   true
 tags:        ["Pass"]
 categories:  [ "TOOLS" ]

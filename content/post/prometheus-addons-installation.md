@@ -6,7 +6,7 @@ description: "之前简单介绍了 Prometheus 的工作模式和工作原理，
 excerpt:     ""
 date:        2019-03-01T10:12:14+08:00
 author:      Aeric
-image:       "https://wx3.sinaimg.cn/large/b258d7f7ly1g0maj74zkkj21ja0loqmw.jpg"
+image:       "https://aericio.oss-cn-beijing.aliyuncs.com/images/bg/9yDVEp.jpg"
 published:   true
 tags:        ["Prometheus"]
 categories:  [ "TECH" ]
@@ -231,11 +231,11 @@ $ service grafana-server start
 
 "Configration"---"Data Sources" 然后可以按照下图所示进行配置，需要注意的是 prometheus 的地址需要根据实际情况做修改。
 
-![grafana 设置数据源](https://wx3.sinaimg.cn/large/b258d7f7ly1g0ncsgb0r7j20d00gxjud.jpg)
+![grafana 设置数据源](https://aericio.oss-cn-beijing.aliyuncs.com/images/blog/dPlPs4.jpg)
 
 grafana 的数据源配置完成后，可以导入一个 dashboard 模板文件，建议节点模板使用 [node_exporter 展示面板模板](https://grafana.com/dashboards/8919)
 
 导入成功后完整的监控面板如下所示：
 
-![node_exporter 监控面板](https://wx4.sinaimg.cn/large/b258d7f7ly1g0nclvl010j21ef0o7ai3.jpg)
+![node_exporter 监控面板](https://aericio.oss-cn-beijing.aliyuncs.com/images/blog/gx31mv.jpg)
 

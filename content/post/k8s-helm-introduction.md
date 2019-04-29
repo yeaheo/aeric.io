@@ -6,7 +6,7 @@ description: "Helm 是 Kubernetes 生态系统中的一个软件包管理工具�
 excerpt:     ""
 date:        2019-01-15T17:41:40+08:00
 author:      Aeric
-image:       "https://wx1.sinaimg.cn/large/b258d7f7ly1fyaxax6i27j21ja0lon64.jpg"
+image:       "https://aericio.oss-cn-beijing.aliyuncs.com/images/bg/xJunGR.jpg"
 published:   true
 tags:        ["Helm","Kubernetes"]
 categories:  [ "TECH" ]
@@ -42,7 +42,7 @@ Helm 采用客户端/服务器架构，有如下基本组件组成：
 
 Helm 各个基本组件之间的关系如下图所示：
 
-![Helm 各个基本组件之间的关系](https://wx2.sinaimg.cn/large/b258d7f7ly1fz7f6u5lq4j20qe0gstb6.jpg)
+![Helm 各个基本组件之间的关系](https://aericio.oss-cn-beijing.aliyuncs.com/images/blog/6KF0TE.jpg)
 
 
 

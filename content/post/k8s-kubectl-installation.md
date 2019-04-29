@@ -6,7 +6,7 @@ description: "在kubernetes集群中kubectl是个非常重要的命令行工具�
 excerpt:     ""
 date:        2018-11-30T14:25:24+08:00
 author:      Aeric
-image:       "https://wx3.sinaimg.cn/large/b258d7f7ly1fxx45xtuqpj21ja0lowu2.jpg"
+image:       "https://aericio.oss-cn-beijing.aliyuncs.com/images/bg/56A1qu.jpg"
 published:   true
 tags:        ["Kubernetes","Docker"]
 categories:  [ "TECH" ]

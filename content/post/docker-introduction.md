@@ -6,7 +6,7 @@ description: "Docker 最初是由 dotCloud 公司创始人 Solomon Hykes 发起�
 excerpt:     ""
 date:        2018-07-26T21:34:07+08:00
 author:      Aeric
-image:       "https://wx1.sinaimg.cn/large/b258d7f7ly1fz0o7npb4uj21ja0lo443.jpg"
+image:       "https://aericio.oss-cn-beijing.aliyuncs.com/images/bg/ceCjdx.jpg"
 published:   true
 tags:        ["Docker"]
 categories:  [ "TECH" ]
@@ -31,6 +31,6 @@ Docker 作为操作系统层面的虚拟化技术，它和传统的虚拟化技�
 - **更轻松的维护和扩展**。 Docker 使用的分层存储以及镜像的技术，使得应用重复部分的复用更为容易，也使得应用的维护更新更加简单，基于基础镜像进一步扩展镜像也更加的容易。
 
 - 下面的图片比较了 Docker 和传统虚拟化方式的不同：
-  ![传统虚拟化技术](https://wx2.sinaimg.cn/large/b258d7f7ly1fzlhdmhe64j20j8079q33.jpg "传统虚拟化技术")
-  ![docker虚拟化技术](https://wx1.sinaimg.cn/large/b258d7f7ly1fzlhdltddwj20j505ft8t.jpg "docker 容器虚拟化技术")
+  ![传统虚拟化技术](https://aericio.oss-cn-beijing.aliyuncs.com/images/blog/rAV6qh.jpg)
+  ![docker虚拟化技术](https://aericio.oss-cn-beijing.aliyuncs.com/images/blog/2rwPVX.jpg)
 

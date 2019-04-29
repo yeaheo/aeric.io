@@ -6,7 +6,7 @@ description: "国内从 Docker Hub 拉取镜像有时会遇到困难，此时可
 excerpt:     ""
 date:        2018-07-28T21:35:35+08:00
 author:      Aeric
-image:       "https://wx4.sinaimg.cn/large/b258d7f7ly1fy64d9206lj21ja0logpb.jpg"
+image:       "https://aericio.oss-cn-beijing.aliyuncs.com/images/bg/oMdJ0x.jpg"
 published:   true
 tags:        ["Docker"]
 categories:  [ "TECH" ]

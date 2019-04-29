@@ -6,7 +6,7 @@ description: "Helm Chart 是用来封装 Kubernetes 原生应用程序的一系�
 excerpt:     ""
 date:        2019-01-15T17:41:54+08:00
 author:      Aeric
-image:       "https://wx4.sinaimg.cn/large/b258d7f7ly1fz7feo1nrej21ja0loamp.jpg"
+image:       "https://aericio.oss-cn-beijing.aliyuncs.com/images/bg/xYTGMf.jpg"
 published:   true
 tags:        ["Helm","Kubernetes"]
 categories:  [ "TECH" ]

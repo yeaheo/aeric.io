@@ -6,7 +6,7 @@ description: "在kubernetes集群中所有的node节点都需要安装网络插�
 excerpt:     ""
 date:        2018-11-30T16:35:14+08:00
 author:      Aeric
-image:       "https://wx3.sinaimg.cn/large/b258d7f7ly1fxx45xtuqpj21ja0lowu2.jpg"
+image:       "https://aericio.oss-cn-beijing.aliyuncs.com/images/bg/DC3z47.jpg"
 published:   true
 tags:        ["Kubernetes","Docker"]
 categories:  [ "TECH" ]

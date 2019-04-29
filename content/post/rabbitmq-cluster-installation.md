@@ -6,7 +6,7 @@ description: "一般情况下，如果只是为了探究 RabbitMQ 可以安装�
 excerpt:     ""
 date:        2018-12-02T16:48:15+08:00
 author:      Aeric
-image:       "https://wx1.sinaimg.cn/large/b258d7f7ly1fxtcy65bcpj21ja0lojxu.jpg"
+image:       "https://aericio.oss-cn-beijing.aliyuncs.com/images/bg/ggarsy.jpg"
 published:   true
 tags:        ['RabbitMQ','Erlang']
 categories:  [ TECH ]

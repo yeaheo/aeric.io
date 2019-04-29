@@ -6,7 +6,7 @@ description: "整个 mesos 集群主要由 Zookeeper、Mesos、Marathon 和 Dock
 excerpt:     ""
 date:        2018-12-06T16:34:08+08:00
 author:      Aeric
-image:       "https://wx4.sinaimg.cn/large/b258d7f7ly1fxx45wx20rj21ja0loh0x.jpg"
+image:       "https://aericio.oss-cn-beijing.aliyuncs.com/images/bg/rfBt7J.jpg"
 published:   true
 tags:        ["Docker","Mesos","Zookeeper","Marathon"]
 categories:  [ TECH ]

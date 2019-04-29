@@ -6,7 +6,7 @@ description: "Harbor 是存放镜像的私有仓库，我们在企业内为了�
 excerpt:     ""
 date:        2019-01-10T11:37:01+08:00
 author:      Aeric
-image:       "https://wx4.sinaimg.cn/large/b258d7f7ly1g0ngh35u98j21ja0lo1b6.jpg"
+image:       "https://aericio.oss-cn-beijing.aliyuncs.com/images/bg/5F7RF1.jpg"
 published:   true
 tags:        ["Harbor","Docker","Docker-compose"]
 categories:  [ "TECH" ]

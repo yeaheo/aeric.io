@@ -6,7 +6,7 @@ description: "Consul 是 HashiCorp 公司推出的开源工具，用于实现分
 excerpt:     ""
 date:        2019-01-27T21:09:35+08:00
 author:      Aeric
-image:       "https://wx2.sinaimg.cn/large/b258d7f7ly1fxtcf6l29nj21dc0jyna7.jpg"
+image:       "https://aericio.oss-cn-beijing.aliyuncs.com/images/bg/1GodFU.jpg"
 published:   true
 tags:        ["Docker","Consul"]
 categories:  [ "TECH" ]
@@ -22,7 +22,7 @@ Consul 是 HashiCorp 公司推出的开源工具，用于实现分布式系统�
 
 Consul 各组件架构图如下图所示：
 
-![Consul 基本架构图](https://wx1.sinaimg.cn/large/b258d7f7ly1fxtos09avrj20g30goq5v.jpg)
+![Consul 基本架构图](https://aericio.oss-cn-beijing.aliyuncs.com/images/blog/q43egM.jpg)
 
 Consul 官方站点：https://www.consul.io
 
@@ -242,7 +242,7 @@ consul-client1  172.16.8.110:8301  alive   client  1.3.0  2         dc1  <defaul
 
 当然，我们也可以通过 consul 自带的 ui 界面查看集群信息，默人 ui 访问地址：http://172.16.8.120:8500 ，具体页面参考如下：
 
-![consul web ui](https://wx2.sinaimg.cn/large/b258d7f7ly1fxtowu4x20j211f0hnt8o.jpg)
+![consul web ui](https://aericio.oss-cn-beijing.aliyuncs.com/images/blog/9ETA0M.jpg)
 
 至此，整个 consul 集群部署完成。如果需要其他方式部署 consul 集群可以查阅 consul 官方文档：https://www.consul.io/docs/install/index.html
 

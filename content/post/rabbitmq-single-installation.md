@@ -6,7 +6,7 @@ description: "RabbitMQ 是由 LShift 提供的一个 Advanced Message Queuing Pr
 excerpt:     ""
 date:        2018-12-02T16:47:46+08:00
 author:      Aeric
-image:       "https://wx2.sinaimg.cn/large/b258d7f7ly1fxtcf7nwxaj21ja0lotjm.jpg"
+image:       "https://aericio.oss-cn-beijing.aliyuncs.com/images/bg/V27r4o.jpg"
 published:   true
 tags:        ['RabbitMQ','Erlang']
 categories:  [ TECH ]

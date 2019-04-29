@@ -6,7 +6,7 @@ description: "kubelet 和 kube-proxy 等 Node 机器上的进程与 Master 机�
 excerpt:     ""
 date:        2018-11-30T14:25:14+08:00
 author:      Aeric
-image:       "https://wx2.sinaimg.cn/large/b258d7f7ly1g06wfeb8exj21ja0lotic.jpg"
+image:       "https://aericio.oss-cn-beijing.aliyuncs.com/images/bg/rcUkBL.jpg"
 published:   true
 tags:        ["Kubernetes","Docker"]
 categories:  [ TECH ]

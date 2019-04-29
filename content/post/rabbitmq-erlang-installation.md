@@ -6,7 +6,7 @@ description: "本文档旨在在 CentOS 7 系统上安装配置 Erlang 环境，
 excerpt:     ""
 date:        2018-12-02T16:46:51+08:00
 author:      Aeric
-image:       "https://wx2.sinaimg.cn/large/b258d7f7ly1fxtcf65mzfj21ja0o67ev.jpg"
+image:       "https://aericio.oss-cn-beijing.aliyuncs.com/images/bg/4HLaKb.jpg"
 published:   true
 tags:        ['RabbitMQ','Erlang']
 categories:  [ TECH ]

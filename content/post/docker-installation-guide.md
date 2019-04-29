@@ -6,7 +6,7 @@ description: "docker 的安装方式有好多种，除了直接用自带的 yum 
 excerpt:     ""
 date:        2018-07-27T21:35:11+08:00
 author:      Aeric
-image:       "https://wx1.sinaimg.cn/large/b258d7f7ly1fynwhi6nrcj21ja0lodv3.jpg"
+image:       "https://aericio.oss-cn-beijing.aliyuncs.com/images/bg/gfkAWd.jpg"
 published:   true
 tags:        ["Docker"]
 categories:  [ "TECH" ]

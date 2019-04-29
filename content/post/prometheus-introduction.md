@@ -6,7 +6,7 @@ description: "Prometheus 是一个开放性的监控解决方案，用户可以�
 excerpt:     ""
 date:        2019-02-27T18:59:07+08:00
 author:      Aeric
-image:       "https://wx1.sinaimg.cn/large/b258d7f7ly1g0maj7m2y2j21ja0lokao.jpg"
+image:       "https://aericio.oss-cn-beijing.aliyuncs.com/images/bg/3g9gPz.jpg"
 published:   true
 tags:        ["Prometheus"]
 categories:  [ "TECH" ]
@@ -18,7 +18,7 @@ categories:  [ "TECH" ]
 
 Prometheus 的发展简史如下图所示：
 
-![Prometheus 简史](https://wx1.sinaimg.cn/large/b258d7f7ly1g0lwpo57jaj20o507hwfr.jpg)
+![Prometheus 简史](https://aericio.oss-cn-beijing.aliyuncs.com/images/blog/z5oM7u.jpg)
 
 作为新一代监控系统，Prometheus 可以说是彻底颠覆了传统的监控系统，作为监控系统，一般都离不开以下监控**目标**：
 

@@ -6,7 +6,7 @@ description: "2019年3月26日 Kubernetes1.14 版本正式发布，这是2019年
 excerpt:     ""
 date:        2019-03-27T10:49:54+08:00
 author:      Aeric
-image:       "https://wx2.sinaimg.cn/large/b258d7f7ly1g1h6zsp170j21ja0lo77x.jpg"
+image:       "https://aericio.oss-cn-beijing.aliyuncs.com/images/bg/dXi0WT.jpg"
 published:   true
 tags:        ["Kubernetes","Release"]
 categories:  [ "TECH" ]

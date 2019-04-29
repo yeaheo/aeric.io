@@ -6,7 +6,7 @@ description: "现有公司一套基础架构主要由 Mesos 集群组成，配�
 excerpt:     ""
 date:        2019-01-12T20:43:44+08:00
 author:      Aeric
-image:       "https://wx2.sinaimg.cn/large/b258d7f7ly1fz2tcw2doyj21ja0lowqa.jpg"
+image:       "https://aericio.oss-cn-beijing.aliyuncs.com/images/bg/S7dKWB.jpg"
 published:   true
 tags:        ["Docker","Mesos","Marathon"]
 categories:  [ "TECH" ]

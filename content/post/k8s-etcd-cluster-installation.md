@@ -6,7 +6,7 @@ description: "kuberntes 集群使用 etcd 存储所有数据,本部分我们介�
 excerpt:     ""
 date:        2018-11-30T14:35:14+08:00
 author:      Aeric
-image:       "https://wx1.sinaimg.cn/large/b258d7f7ly1fz0o7npb4uj21ja0lo443.jpg"
+image:       "https://aericio.oss-cn-beijing.aliyuncs.com/images/bg/4LWhMv.jpg"
 published:   true
 tags:        ["Kubernetes","Docker"]
 categories:  [ "TECH" ]

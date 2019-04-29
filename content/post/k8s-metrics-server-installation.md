@@ -6,7 +6,7 @@ description: "Kubernetes 1.8关于资源使用情况的 metrics，可以通过 M
 excerpt:     ""
 date:        2019-01-04T12:23:36+08:00
 author:      Aeric
-image:       "https://wx3.sinaimg.cn/large/b258d7f7ly1fynwhhmlolj21ja0lo7aj.jpg"
+image:       "https://aericio.oss-cn-beijing.aliyuncs.com/images/bg/Uuid4d.jpg"
 published:   true
 tags:        ["Kubernetes","Metrics","Docker"]
 categories:  [ TECH ]

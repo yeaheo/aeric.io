@@ -6,7 +6,7 @@ description: "Alertmanager 作为一个独立的组件，负责接收并处理�
 excerpt:     ""
 date:        2019-03-01T18:06:59+08:00
 author:      Aeric
-image:       "https://wx1.sinaimg.cn/large/b258d7f7ly1g1okw30i51j21ja0lodvr.jpg"
+image:       "https://aericio.oss-cn-beijing.aliyuncs.com/images/bg/lgFvv4.jpg"
 published:   true
 tags:        ["Prometheus"]
 categories:  [ "TECH" ]
@@ -18,7 +18,7 @@ categories:  [ "TECH" ]
 
 告警能力在 Prometheus 的架构中被划分成两个独立的部分。如下所示，通过在 Prometheus 中定义 AlertRule（告警规则），Prometheus 会周期性的对告警规则进行计算，如果满足告警触发条件就会向 Alertmanager 发送告警信息。
 
-![prometheus告警图](https://ws1.sinaimg.cn/large/006tKfTcly1g0e112xcb9j31io0g276b.jpg)
+![prometheus告警图](https://aericio.oss-cn-beijing.aliyuncs.com/images/blog/dlfoee.jpg)
 
 首先我们需要从[Alertmanager下载页](https://github.com/prometheus/alertmanager/releases)下载我们需要安装的版本，这里我们选择则安装的prometheus版本是 v0.16.1的最新版本。
 

@@ -6,7 +6,7 @@ description: "在Kubernetes集群中，一般Node节点上的服务主要是kube
 excerpt:     ""
 date:        2018-11-30T18:35:14+08:00
 author:      Aeric
-image:       "https://wx3.sinaimg.cn/large/b258d7f7ly1fxx45xa3xzj21ja0loajs.jpg"
+image:       "https://aericio.oss-cn-beijing.aliyuncs.com/images/bg/Au2Fld.jpg"
 published:   true
 tags:        ["Kubernetes","Docker"]
 categories:  [ "TECH" ]

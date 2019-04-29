@@ -6,7 +6,7 @@ description: "之前安装的harbor版本是v1.6的版本，由于在v1.7版本�
 excerpt:     ""
 date:        2019-01-10T14:37:01+08:00
 author:      Aeric
-image:       "https://wx3.sinaimg.cn/large/b258d7f7ly1fz0o7p0lbyj21ja0lok3g.jpg"
+image:       "https://aericio.oss-cn-beijing.aliyuncs.com/images/bg/sAPWBh.jpg"
 published:   true
 tags:        ["Docker","Docker-compose","Harbor"]
 categories:  [ TECH ]

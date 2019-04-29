@@ -6,7 +6,7 @@ description: "在 v1.6 版本的 harbor 中新增加了 helm charts 的管理功
 excerpt:     ""
 date:        2019-01-18T10:42:37+08:00
 author:      Aeric
-image:       "https://wx4.sinaimg.cn/large/b258d7f7ly1fz7289lodjj21ja0loq9w.jpg"
+image:       "https://aericio.oss-cn-beijing.aliyuncs.com/images/bg/wZBvPh.jpg"
 published:   true
 tags:        ["Harbor","Helm","Kubernetes"]
 categories:  [ "TECH" ]
@@ -46,19 +46,19 @@ $ ./install.sh --with-chartmuseum
 
 首先，我们需要在 harbor 上创建一个名为 `helm-repo`的项目，如下图所示：
 
-![创建 helm-repo 项目](https://ws2.sinaimg.cn/large/006tNc79ly1fze0qq4evoj31ju0pgn12.jpg)
+![创建 helm-repo 项目](https://aericio.oss-cn-beijing.aliyuncs.com/images/blog/JTh3t9.jpg)
 
 **上传 Helm Charts 包：**
 
 单击 “上传” 按钮以打开图表上载对话框。 从文件系统中选择上传 Helm Charts。 单击 UPLOAD 按钮将其上载到 `helm-repo`存储库。
 
-![上传 Helm Charts](https://wx1.sinaimg.cn/large/b258d7f7ly1fzcv3e6xs6j20vw0fuq3y.jpg)
+![上传 Helm Charts](https://aericio.oss-cn-beijing.aliyuncs.com/images/blog/yBdZ44.jpg)
 
 > If the chart is signed, you can choose the corresponding provenance file from your filesystem and Click the `UPLOAD`button to upload them together at once.
 
 Helm Charts 上传成功后，就可以显示在相关界面上，具体内容包括: chart 版本号、状态、作者、Egine、创建时间等信息，如下图所示：
 
-![charts_version](https://wx3.sinaimg.cn/large/b258d7f7ly1fzcvbwmsjvj22i80mu78n.jpg)
+![charts_version](https://aericio.oss-cn-beijing.aliyuncs.com/images/blog/ypkb5D.jpg)
 
 当然，harbor 也支持根据每个 cahrt  的用途，为上传的 chart 包打上对应的标签，点击相关按钮即可，在打标签之前需要在 harbor 的系统设置里添加好对应标签即可，当为相应的 chart 添加好对应标签后 harbor 支持根据标签过滤 chart ,这个挺简单的，这里不再赘述。
 

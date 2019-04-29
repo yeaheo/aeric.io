@@ -6,7 +6,7 @@ description: "本次 Mesos 集群部署主要基于Zookeeper+Mesos+Marathon+Dock
 excerpt:     ""
 date:        2019-01-12T20:44:13+08:00
 author:      Aeric
-image:       "https://wx1.sinaimg.cn/large/b258d7f7ly1fynwhg6digj21ja0logrm.jpg"
+image:       "https://aericio.oss-cn-beijing.aliyuncs.com/images/bg/zRmwCh.jpg"
 published:   true
 tags:        ["Docker","Mesos","Marathon"]
 categories:  [ "TECH" ]
